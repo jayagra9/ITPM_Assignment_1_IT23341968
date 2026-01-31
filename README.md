@@ -1,4 +1,4 @@
-#ITPM Assignment 1 – Playwright Automation Testing
+# ITPM Assignment 1 – Playwright Automation Testing
 
 Student ID: IT23341968
 Module: ITPM
@@ -65,17 +65,17 @@ Clone the repository
 git clone https://github.com/jayagra9/ITPM_Assignment_1_Playwright.git
 
 
-Navigate into the project folder
+# Navigate into the project folder
 
 cd ITPM_Assignment_1_Playwright
 
 
-Install dependencies
+# Install dependencies
 
 npm install
 
 
-Install Playwright browsers
+# Install Playwright browsers
 
 npx playwright install
 
