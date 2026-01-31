@@ -79,11 +79,11 @@ npm install
 
 npx playwright install
 
-▶️ How to Run the Tests
-✅ Run all tests (Chromium only – recommended)
+  How to Run the Tests
+  Run all tests (Chromium only – recommended)
 npx playwright test --project=chromium
 
-▶️ Run all tests (all browsers)
+  Run all tests (all browsers)
 npx playwright test
 
 🖥️ Run tests with UI (headed mode)
